@@ -4,6 +4,12 @@
 
 代码由[sy-records](https://github.com/sy-records)的[v-checkin](https://github.com/sy-records/v-checkin/)改动而来，额外增加了4项任务的领取，需要手动完成任务才能领取。(通常我是观看60分钟会忘记领)
 
+执行结果通常是这样的
+
+![执行结果](images/Result.png)
+
+下面是使用方法(也是从上面抄来的)
+
 ## 准备
 
 * 注册[Server酱](http://sc.ftqq.com/)，获取`SCKEY`，修改脚本`index.py`中的`sckey`
